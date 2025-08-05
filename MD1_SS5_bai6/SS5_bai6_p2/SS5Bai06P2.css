@@ -1,0 +1,33 @@
+.imgraletive {
+    position: relative;
+}
+.imgraletive span{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    position: absolute;
+    top: 30px;
+    left:40px;
+}
+.imgraletive .thongtin {
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: white; 
+   position: absolute;
+   top: 250px;
+   left: 30px;
+}
+ .imgraletive .logo i{
+    background-color: red;
+    font-size: 30px;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    
+    
+ }
+ .imgraletive .logo {
+    position: absolute;
+    top: 30px;
+    left: 500px;
+ }

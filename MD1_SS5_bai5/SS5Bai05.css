@@ -1,0 +1,174 @@
+/* Phan 1*/
+.fadein {
+    color: white;
+    background-color: darkgray;
+    width: 450px;
+    height: 300px;
+    opacity: 0.5;
+    border-radius: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+ .fadein p {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    bottom: 50%;
+}
+
+.fadein:hover {
+    background-color: black;
+    opacity: 1;
+}
+/* Phan 2*/
+.Change {
+    color: white;
+    background-color: black;
+    width: 450px;
+    height: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+ .Change p {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    bottom: 50%;
+}
+
+.Change:hover {
+    background-color: blue;
+
+}
+/* Phan 3*/
+.Grow {
+    color: white;
+    background-color: rgb(153, 38, 38);
+    width: 450px;
+    height: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+    margin-right: auto;
+    margin-left: auto;
+   
+
+}
+
+ .Grow p {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    bottom: 50%;
+}
+
+.Grow:hover {
+    
+    transform: scale(1.2,1.2);
+    transition-duration: 4s;
+
+}
+/* Phan 4*/
+.Shrink {
+    color: white;
+    background-color: rgb(91, 226, 84);
+    width: 450px;
+    height: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+     margin-right: auto;
+    margin-left: auto;
+    
+}
+
+ .Shrink p {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    bottom: 50%;
+}
+
+.Shrink:hover {
+   transform: scale(0.5,0.5);
+    transition-duration: 3s;
+
+}
+/* Phan 5*/
+.Rotate {
+    color: white;
+    background-color: rgb(68, 57, 171);
+    width: 450px;
+    height: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.Rotate p {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    bottom: 50%;
+}
+
+.Rotate:hover {
+   transform:rotate(-30deg) ;
+   transition-duration: 3s;
+
+}
+/* Phan 6*/
+.Square {
+    color: white;
+    background-color: rgb(201, 51, 101);
+    width: 450px;
+    height: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+     margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.Square p {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    bottom: 50%;
+}
+
+.Square:hover {
+   border-radius: 250px ;
+   transition-duration: 3s;
+
+}
+/* Phan 7*/
+.Inset {
+    color: white;
+    background-color: darkgray;
+    width: 450px;
+    height: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+     margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.Inset p {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    bottom: 50%;
+}
+
+.Inset:hover { 
+   border: 20px solid blue;
+   transition-duration: 3s;
+
+}

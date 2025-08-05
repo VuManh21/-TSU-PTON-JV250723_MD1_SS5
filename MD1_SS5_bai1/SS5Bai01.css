@@ -1,0 +1,10 @@
+button {
+    width: 300px;
+    height: 100px;
+    
+    border-right: 15px dotted;
+    border-top:15px solid red;
+    border-bottom:15px double green;
+    border-left: 15px groove blueviolet;
+
+}
